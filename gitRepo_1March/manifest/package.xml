@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Voltas_Electrics__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Contact.Level__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Easton_Sensors__c-Easton_Sensor Layout</members>
+        <name>Layout</name>
+    </types>
+    <version>59.0</version>
+</Package>
